@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bitmap.h
+windows.h
+-
+wingdi.h
+-
+stdlib.h
+-
+
+../include/improc.hpp
+bitmap.h
+../include/bitmap.h
+vector
+-
+iostream
+-
+string
+-
+stdio.h
+-
+cstring
+-
+functional
+-
+
+C:/Users/USER/CLionProjects/image_processor/src/improc.cpp
+improc.hpp
+C:/Users/USER/CLionProjects/image_processor/src/improc.hpp
+bitmap.h
+C:/Users/USER/CLionProjects/image_processor/src/bitmap.h
+cstdio
+-
+cstdlib
+-
+cstring
+-
+improc.hpp
+-
+

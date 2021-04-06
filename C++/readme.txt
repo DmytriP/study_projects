@@ -1,2 +1,1 @@
-My C++ projects of 8-bit grayscale images filtration and transformation using C libary for library for reading and writing images in BMP format. 
-You can found input and output images in img folder.
+# My C++ projects 

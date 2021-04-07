@@ -1,1 +1,1 @@
-PWM LED Controller - LED brightness modulation project C with HAL libary 
+PWM LED Controller - LED brightness modulation project with HAL libary 
